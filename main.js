@@ -61,9 +61,9 @@ render();
 
 
 // 
-import Handlebars from "handlebars";
-import { products } from "./data"; // Імпортуємо дані продуктів
-import templateSource from "./template.hbs";    
+// import Handlebars from "handlebars";
+// import { products } from "./data"; // Імпортуємо дані продуктів
+// import templateSource from "./template.hbs";    
 
 // const renderProducts = (products) => {
 //   const template = Handlebars.compile(templateSource); // Компілюємо шаблон 
